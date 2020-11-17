@@ -3,6 +3,7 @@ Type: Package
 Title: Pooled standard deviation
 Version: 1.0
 Author: rdw
+Date: 17-11-2020
 Description: Bionavigator operator for calculating pooled sd over multiple groups, groups to be indicated on the x-axix.
 License: What license is it under?
 Imports: bnshiny, bnutil, dplyr
